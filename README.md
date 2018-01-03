@@ -399,7 +399,7 @@ function createMicrobrewery(string $breweryName = 'Hipster Brew Co.'): void
 ```php
 $a = '42';
 $b = 42;
-Use the simple comparison will convert the string in an int
+//Use the simple comparison will convert the string in an int
 
 if( $a != $b ) {
    //The expression will always passes
